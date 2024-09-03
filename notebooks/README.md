@@ -75,10 +75,6 @@ To use this notebook, run the cells in order. Ensure that you update the file pa
 2. Install the required dependencies.
 3. Run the notebook in Jupyter.
 
-Certainly! Here’s a sample README file content for your project that explains the purpose of the code, how it works, and how to use it:
-
----
-
 # TASK -3 Sentiment and Stock Correlation Analysis
 
 ## Overview
