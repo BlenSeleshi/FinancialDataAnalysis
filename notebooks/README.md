@@ -1,4 +1,4 @@
-**\*\*\*\***\***\*\*\*\*** Task 1: SENTIMENT ANALYSIS (sentimentAnalysis.ipynb)****\*\*****\*\*\*****\*\*****
+**\*\*\*\***\***\*\*\*\*** Task 1: SENTIMENT ANALYSIS (sentimentAnalysis.ipynb)\***\*\*\*\*\***\*\*\*\***\*\*\*\*\***
 
 ## Sentiment Analysis of Analyst Ratings - Jupyter Notebook
 
@@ -35,3 +35,47 @@ This Jupyter Notebook explores the sentiment of analyst ratings headlines.
 - statsmodels: Used for time series analysis and decomposition.
 
 **Please note:** This code utilizes pre-existing libraries. Ensure you have them installed before running the notebook.
+
+### For the technical_analysis
+
+````markdown
+# Technical Analysis Notebook
+
+This Jupyter Notebook demonstrates how to perform technical stock analysis using Python. It includes steps for loading data, applying technical indicators, and visualizing the results.
+
+## Features
+
+1. **Data Loading**
+   - Load stock data from a CSV file.
+2. **Technical Indicators**
+
+   - Calculate and visualize the Simple Moving Average (SMA), Exponential Moving Average (EMA), Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD).
+
+3. **Data Cleaning**
+
+   - Remove unnecessary columns from the DataFrame for a more focused analysis.
+
+4. **Visualization**
+   - Generate plots for the Close Price, SMA, EMA, RSI, and MACD.
+
+## Usage
+
+To use this notebook, run the cells in order. Ensure that you update the file path to your stock data CSV in the `load_data` function call.
+
+## Dependencies
+
+- pandas
+- matplotlib
+- numpy
+- Jupyter Notebook
+
+## Running the Notebook
+
+1. Clone the repository or download the notebook.
+2. Install the required dependencies.
+3. Run the notebook in Jupyter.
+
+```bash
+pip install pandas matplotlib numpy jupyter
+```
+````
